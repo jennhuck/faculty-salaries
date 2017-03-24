@@ -1,0 +1,22 @@
+{
+  "name": "faculty-salaries",
+  "version": "1.0.0",
+  "description": "an analysis of faculty salaries by the cavalier daily",
+  "main": " server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavdailyonline/faculty-salaries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavdailyonline/faculty-salaries/issues"
+  },
+  "homepage": "https://github.com/cavdailyonline/faculty-salaries#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
