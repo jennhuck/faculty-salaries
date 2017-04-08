@@ -8,16 +8,15 @@ app.get('/', function (req, res) {
   res.sendFile('index.html');
 });
 
-app.get('/test', function (req, res) {
-  res.sendFile(__dirname + '/juice.html');
-});
-
-
 app.listen(process.env.PORT || 3000, function () {
-  console.log('Example app listening on port 3000!');
+  console.log('The CDE is running on port 3000!');
 });
 
 //static files 
 app.use('/scripts', express.static(__dirname + '/node_modules/'));
+app.use('/js', express.static(__dirname + '/js'));
+app.use('/css', express.static(__dirname + '/css'));
+app.use('/fonts', express.static(__dirname + '/fonts'));
+app.use('/img', express.static(__dirname + '/img'));
 app.use(express.static(__dirname + '/public'));
 
