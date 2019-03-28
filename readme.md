@@ -24,4 +24,6 @@ Note: no mention of salaries in print edition
 
 Richmond Times Dispatch database:
 * http://data.richmond.com/salaries/2016/state/university-of-virginia
+* more generally: http://data.richmond.com/salaries/2016/state
 * Note URL says 2016, but the text indicates 2016-2017. 
+* Note: "State officials say the information represents a snapshot of compensation as of April 1, 2017.  The Times-Dispatch removed those reported as less than $10,000 a year before calculating the median salary of $50,082. The names of employees who fall below that median are not included in the online database."  This will not be a complete snapshot of UVA faculty and staff. 
