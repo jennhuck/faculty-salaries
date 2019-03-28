@@ -21,3 +21,7 @@ Full issue:
 * Cavalier Daily.  Published on 2017-04-06.  Retrieved on 2019-03-28. 
 https://issuu.com/cavalierdaily/docs/040617
 Note: no mention of salaries in print edition
+
+Richmond Times Dispatch database:
+* http://data.richmond.com/salaries/2016/state/university-of-virginia
+* Note URL says 2016, but the text indicates 2016-2017. 
